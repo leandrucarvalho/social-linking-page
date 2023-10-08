@@ -1,6 +1,8 @@
 # Meu Site Pessoal De Links Sociais
 
-Este é o meu site pessoal, onde eu compartilho meus links sociais e informações sobre mim. O site foi desenvolvido usando HTML, CSS e JavaScript.
+Este é um agregador de links para usar como cartão de visitas online, onde eu compartilho meus links sociais e informações sobre mim. O site foi desenvolvido usando HTML, CSS e JavaScript.
+
+- [Acesse o projeto finalizado, online](https://leandrucarvalho.github.io/social-linking-page/)
 
 ## Visão Geral
 
@@ -42,3 +44,5 @@ Leandro Carvalho - Desenvolvedor Web
 ## Agradecimentos
 
 Agradeço à [Rocketseat](https://www.rocketseat.com.br/) por fornecer recursos e inspiração para este projeto.
+
+- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
